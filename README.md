@@ -28,6 +28,10 @@ BIG_DATA Analytics: Mineração e Análise de Dados
 |        | CASO:   Spotify Music Recommendation                                    | Knn não Supervisionado         |
 | 8.     | CASO: Kyphosis Diagnostic                                               | MLP e Deep Learning            |
 
+<br>
+
+<br> 
+
 # Principais Referências
 
 Alpaydin, E. **Machine Learning** (The MIT Press Essential Knowledge). The MIT Press. 2019.
