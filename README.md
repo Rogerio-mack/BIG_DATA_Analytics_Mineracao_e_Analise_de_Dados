@@ -1,3 +1,9 @@
+<a href="url"><img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" align="right" width="200" ></a>
+
+<br>
+
+<br>
+
 # BIG_DATA Analytics: Mineração e Análise de Dados
 
 0. [**Apresentação**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T0_Apresentacao.ipynb)
@@ -18,22 +24,6 @@
 8. [**Redes Neurais e Deep Learning**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T8_Modelos_Neurais.ipynb)
 
 
-<br>
-<br>
-
-| Trilha | Casos Práticos                                                          | Principais Algoritmos          |
-|--------|-------------------------------------------------------------------------|--------------------------------|
-| 1.     | -                                                                       | -                              |
-| 2.     | CASO: Estimando o Preço de   Veículos                                   | Regressão Linear               |
-|        | CASO:   Estimando o tipo de Transmissão dos Veículos                    | Regressão Logística            |
-| 3.     | CASO: 10 year risk of coronary heart disease CHD                        | Regressão Logística            |
-| 4.     | CASO: Breast Cancer biopsy                                              | K-Vizinhos mais Próximos       |
-| 5.     | CASO: Classifying Political Parties Based on Congressional Votes        | Decision Trees & Random Forest |
-| 6.     | CASO: Segmentando Estados para   Políticas e Campanhas de não Violência | K-Médias                       |
-|        | CASO:   Wholesale Customer Data                                         | Clustering Hierárquico         |
-| 7.     | CASO: UK Online Retail Data Set                                         | Apriori                        |
-|        | CASO:   Spotify Music Recommendation                                    | Knn não Supervisionado         |
-| 8.     | CASO: Kyphosis Diagnostic                                               | MLP e Deep Learning            |
 
 <br>
 
@@ -76,7 +66,24 @@ Encontre aqui 2 vídeos para cada Trilha.
 
 8. Redes Neurais e Deep Learning| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8B.mp4)
 
+<br>
+<br>
 
+# Cases
+
+| Trilha | Casos Práticos                                                          | Principais Algoritmos          |
+|--------|-------------------------------------------------------------------------|--------------------------------|
+| 1.     | -                                                                       | -                              |
+| 2.     | CASO: Estimando o Preço de   Veículos                                   | Regressão Linear               |
+|        | CASO:   Estimando o tipo de Transmissão dos Veículos                    | Regressão Logística            |
+| 3.     | CASO: 10 year risk of coronary heart disease CHD                        | Regressão Logística            |
+| 4.     | CASO: Breast Cancer biopsy                                              | K-Vizinhos mais Próximos       |
+| 5.     | CASO: Classifying Political Parties Based on Congressional Votes        | Decision Trees & Random Forest |
+| 6.     | CASO: Segmentando Estados para   Políticas e Campanhas de não Violência | K-Médias                       |
+|        | CASO:   Wholesale Customer Data                                         | Clustering Hierárquico         |
+| 7.     | CASO: UK Online Retail Data Set                                         | Apriori                        |
+|        | CASO:   Spotify Music Recommendation                                    | Knn não Supervisionado         |
+| 8.     | CASO: Kyphosis Diagnostic                                               | MLP e Deep Learning            |
 <br>
 
 <br> 
