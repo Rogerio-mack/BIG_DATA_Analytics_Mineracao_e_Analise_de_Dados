@@ -6,7 +6,8 @@
 
 # BIG_DATA Analytics: Mineração e Análise de Dados
 
-0. [**Apresentação**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T0_Apresentacao.ipynb)
+[**Apresentação**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T0_Apresentacao.ipynb)
+
 1. [**Introdução: Mineração, Ciência de Dados e o Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T1_Introducao_a_Ciencia_de_Dados_e_ML.ipynb)
 
 2. [**Regressão e Classificação: Regressão Linear e Logística**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T2_Regressao_e_Classificacao.ipynb)
