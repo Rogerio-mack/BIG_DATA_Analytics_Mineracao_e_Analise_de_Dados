@@ -72,6 +72,8 @@ Encontre aqui 2 vídeos para cada Trilha.
 
 # Cases
 
+Aqui a relação de Cases estudados em cada Trilha.
+
 | Trilha | Casos Práticos                                                          | Principais Algoritmos          |
 |--------|-------------------------------------------------------------------------|--------------------------------|
 | 1.     | -                                                                       | -                              |
