@@ -59,39 +59,23 @@ Ao final dessas atividades você terá implementado e discutido ao menos um mode
 
 Encontre aqui 2 vídeos para cada Trilha.
 
-0. [**Apresentação**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T0_Apresentacao.ipynb) | <small> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1A.mp4) 
+0. [**Apresentação**] | [vídeo](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T0A.mp4) 
 
-2. [**Introdução: Mineração, Ciência de Dados e o Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T1_Introducao_a_Ciencia_de_Dados_e_ML.ipynb)
+2. [**Introdução: Mineração, Ciência de Dados e o Aprendizado de Máquina**]| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1B.mp4)
 
-> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1B.mp4)
+2. [**Regressão e Classificação: Regressão Linear e Logística**]| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2B.mp4)
 
-2. [**Regressão e Classificação: Regressão Linear e Logística**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T2_Regressao_e_Classificacao.ipynb)
+3. [**Classificação e Métricas**]| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3B.mp4)
 
-> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2B.mp4)
+4. [**K-Vizinhos Mais Próximos, Validação Cruzada e GridSearch**]| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4B.mp4)
 
-3. [**Classificação e Métricas**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T3_Classificacao_e_Metricas.ipynb)
+5. [**Árvores de Decisão, Seleção de Atributos e outros Classificadores**]| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5B.mp4)
 
-> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3B.mp4)
+6. [**Aprendizado não Supervisionado: Clustering**]| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6B.mp4)
 
-4. [**K-Vizinhos Mais Próximos, Validação Cruzada e GridSearch**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T4_Knn_CV_GridSearch.ipynb) 
+7. [**Aprendizado não Supervisionado: Regras de Associação e Filtros de Conteúdo**]| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7B.mp4)
 
-> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4B.mp4)
-
-5. [**Árvores de Decisão, Seleção de Atributos e outros Classificadores**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T5_DecisionTrees_MutualInfo_others.ipynb)
-
-> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5B.mp4)
-
-6. [**Aprendizado não Supervisionado: Clustering**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) 
-
-> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6B.mp4)
-
-7. [**Aprendizado não Supervisionado: Regras de Associação e Filtros de Conteúdo**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T7_Regras_de_Associacao_e_Filtros.ipynb) 
-
-> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7B.mp4)
-
-8. [**Redes Neurais e Deep Learning**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T8_Modelos_Neurais.ipynb)
-
-> [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8B.mp4)
+8. [**Redes Neurais e Deep Learning**]| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8A.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8B.mp4)
 
 
 <br>
