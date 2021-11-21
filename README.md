@@ -3,13 +3,15 @@ BIG_DATA Analytics: Mineração e Análise de Dados
 
 0. [**Apresentação**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T0_Apresentacao.ipynb)
 1. [**Introdução: Mineração, Ciência de Dados e o Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T1_Introducao_a_Ciencia_de_Dados_e_ML.ipynb)
-2. [**Regressão e Classificação: Regressão Linear e Logística**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T2_Regressao_e_Classificacao.ipynb)
-3. [**Classificação e Métricas**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T3_Classificacao_e_Metricas.ipynb)
-4. [**K-Vizinhos Mais Próximos, Validação Cruzada e GridSearch**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T4_Knn_CV_GridSearch.ipynb) 
-5. [**Árvores de Decisão, Seleção de Atributos e outros Classificadores**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T5_DecisionTrees_MutualInfo_others.ipynb)
-6. [**Aprendizado não Supervisionado: Clustering**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) 
-7. [**Aprendizado não Supervisionado: Regras de Associação e Filtros de Conteúdo**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T7_Regras_de_Associacao_e_Filtros.ipynb) 
-8. [**Redes Neurais e Deep Learning**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T8_Modelos_Neurais.ipynb)
+[vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1A.mp4) [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1B.mp4)
+
+3. [**Regressão e Classificação: Regressão Linear e Logística**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T2_Regressao_e_Classificacao.ipynb)
+4. [**Classificação e Métricas**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T3_Classificacao_e_Metricas.ipynb)
+5. [**K-Vizinhos Mais Próximos, Validação Cruzada e GridSearch**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T4_Knn_CV_GridSearch.ipynb) 
+6. [**Árvores de Decisão, Seleção de Atributos e outros Classificadores**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T5_DecisionTrees_MutualInfo_others.ipynb)
+7. [**Aprendizado não Supervisionado: Clustering**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T6_Clustering.ipynb) 
+8. [**Aprendizado não Supervisionado: Regras de Associação e Filtros de Conteúdo**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T7_Regras_de_Associacao_e_Filtros.ipynb) 
+9. [**Redes Neurais e Deep Learning**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T8_Modelos_Neurais.ipynb)
 
 <br>
 <br>
@@ -27,6 +29,32 @@ BIG_DATA Analytics: Mineração e Análise de Dados
 | 7.     | CASO: UK Online Retail Data Set                                         | Apriori                        |
 |        | CASO:   Spotify Music Recommendation                                    | Knn não Supervisionado         |
 | 8.     | CASO: Kyphosis Diagnostic                                               | MLP e Deep Learning            |
+
+<br>
+
+<br> 
+
+# Atividades de Aprofundamento
+
+Ao final dessas atividades você terá implementado e discutido ao menos um modelo de regressão, um de classificação e um de clusterização de dados.
+
+* [1. Regressão com `statsmodels`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A1_LinearRegressionStatsmodels.ipynb)
+* [2. Discussão: Multicolinearidade, Hotencode e R2-ajustado](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A2_LinearRegressionDiscussao.ipynb)
+* [3. Classificação com `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A3_Classificacao.ipynb)
+* [4. Discussão: Seleção de Modelos](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A4_ClassificacaoDiscussao.ipynb)
+* [5. Clusterização com `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A5_Clustering.ipynb)
+* [6. Discussão: Clusters, métricas e Classificação](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A6_ClusteringDiscussao.ipynb)
+
+<br>
+
+<br> 
+
+# Vídeos
+
+Encontre aqui 2 vídeos para cada Trilha
+
+* 1. [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1A.mp4) [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1B.mp4)
+
 
 <br>
 
