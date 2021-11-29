@@ -34,24 +34,24 @@
 
 Ao final dessas atividades você terá implementado e discutido ao menos um modelo de regressão, um de classificação e um de clusterização de dados.
 
-* [1. Regressão com `statsmodels`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A1_LinearRegressionStatsmodels.ipynb) | Trilha 2 
-* [2. Discussão: Multicolinearidade, Hotencode e R2-ajustado](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A2_LinearRegressionDiscussao.ipynb) | Trilha 2 
-* [3. Classificação com `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A3_Classificacao.ipynb) | Trilha 4
-* [4. Discussão: Seleção de Modelos](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A4_ClassificacaoDiscussao.ipynb) | Trilha 4
-* [5. Clusterização com `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A5_Clustering.ipynb) | Trilha 6
-* [6. Discussão: Clusters, métricas e Classificação](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A6_ClusteringDiscussao.ipynb) | Trilha 6
+* [1. Regressão com `statsmodels`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A1_LinearRegressionStatsmodels.ipynb) | *Trilha 2*
+* [2. Discussão: Multicolinearidade, Hotencode e R2-ajustado](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A2_LinearRegressionDiscussao.ipynb) | *Trilha 2* 
+* [3. Classificação com `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A3_Classificacao.ipynb) | *Trilha 4*
+* [4. Discussão: Seleção de Modelos](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A4_ClassificacaoDiscussao.ipynb) | *Trilha 4*
+* [5. Clusterização com `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A5_Clustering.ipynb) | *Trilha 6*
+* [6. Discussão: Clusters, métricas e Classificação](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A6_ClusteringDiscussao.ipynb) | *Trilha 6*
 
 <br>
 
 <br> 
 
-# Vídeos
+# Áudio e Vídeos
 
 Encontre aqui 2 vídeos para cada Trilha.
 
 0. Apresentação  | [vídeo](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T0.mp4) 
 
-1. Introdução: Mineração, Ciência de Dados e o Aprendizado de Máquina | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1b.mp4)
+1. Introdução: Mineração, Ciência de Dados e o Aprendizado de Máquina | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1a.mp4)
 
 2. Regressão e Classificação: Regressão Linear e Logística | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2b.mp4)
 
