@@ -55,7 +55,7 @@ Encontre aqui 2 vídeos para cada Trilha.
 
 2. Regressão e Classificação: Regressão Linear e Logística | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2a.m4a)
 
-3. Classificação e Métricas | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3b.mp4) [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3a.m4a)
+3. Classificação e Métricas | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3a.m4a)
 
 4. K-Vizinhos Mais Próximos, Validação Cruzada e GridSearch | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4a.m4a)
 
