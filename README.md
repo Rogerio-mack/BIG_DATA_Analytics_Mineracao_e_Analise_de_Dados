@@ -51,21 +51,21 @@ Encontre aqui 2 vídeos para cada Trilha.
 
 0. Apresentação  | [vídeo](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T0.mp4) 
 
-1. Introdução: Mineração, Ciência de Dados e o Aprendizado de Máquina | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1a.m4a)
+1. Introdução: Mineração, Ciência de Dados e o Aprendizado de Máquina | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T1a.m4a) | [slides](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/raw/main/ppt/BIG_T1.pdf)
 
-2. Regressão e Classificação: Regressão Linear e Logística | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2a.m4a)
+2. Regressão e Classificação: Regressão Linear e Logística | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T2a.m4a) | [slides](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/raw/main/ppt/BIG_T2.pdf)
 
-3. Classificação e Métricas | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3a.m4a)
+3. Classificação e Métricas | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T3a.m4a) | [slides](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/raw/main/ppt/BIG_T3.pdf)
 
-4. K-Vizinhos Mais Próximos, Validação Cruzada e GridSearch | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4a.m4a)
+4. K-Vizinhos Mais Próximos, Validação Cruzada e GridSearch | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T4a.m4a) | [slides](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/raw/main/ppt/BIG_T4.pdf)
 
-5. Árvores de Decisão, Seleção de Atributos e outros Classificadores | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5a.m4a)
+5. Árvores de Decisão, Seleção de Atributos e outros Classificadores | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T5a.m4a) | [slides](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/raw/main/ppt/BIG_T5.pdf)
 
-6. Aprendizado não Supervisionado: Clustering | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6a.m4a)
+6. Aprendizado não Supervisionado: Clustering | [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T6a.m4a) | [slides](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/raw/main/ppt/BIG_T6.pdf)
 
-7. Aprendizado não Supervisionado: Regras de Associação e Filtros de Conteúdo| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7a.m4a)
+7. Aprendizado não Supervisionado: Regras de Associação e Filtros de Conteúdo| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T7a.m4a) | [slides](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/raw/main/ppt/BIG_T7.pdf)
 
-8. Redes Neurais e Deep Learning| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8a.m4a)
+8. Redes Neurais e Deep Learning| [vídeo parte A](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8a.mp4) | [vídeo parte B](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8b.mp4) | [áudio](http://meusite.mackenzie.br/rogerio/BIGvideos/BIG_T8a.m4a) | [slides](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/raw/main/ppt/BIG_T8.pdf)
 
 <br>
 <br>
