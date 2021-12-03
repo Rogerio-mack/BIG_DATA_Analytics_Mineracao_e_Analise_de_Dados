@@ -1,0 +1,56 @@
+$CATEGORY: $course$/BIGT2
+
+(T21) Por padrão o p-value de um coeficiente da regressão linear para que ele seja significativo deve ser\:
+{
+	=Menor que 0.05
+	~Maior que 0.05
+	~Menor que 0.01
+	~Maior que 0.01
+	~deve ser maior que 0
+}
+
+(T22) Sobre o modelo de Regressão Linear\:\n
+\n i. Pode ser aplicado com transaformações às variáveis preditoras (X), como hot encode, mas não às variáveis objetivo (y)
+\n ii. Dado um conjunto de valores existem vários coeficientes que atendem a regressão e deve ser escolhido o de maior R2
+\n iii. Mais variáveis preditoras no modelo sempre aumentam o coeficiente de determinação R2  
+Estão corretas\:
+{
+	=Nenhuma
+	~Somente i, ii
+	~Somente i, iii
+	~Somente ii
+	~Somente i
+}
+
+(T23) Sobre o modelo de Regressão Linear\:\n
+\n i. Se o coeficiente de determinação for baixo (por exemplo próximo de 0) não há relação entre as variáveis envolvidas\n
+\n ii. Dada a regressão y \= 1 + 1*x1 - 2*x2 a variável de maior impacto positivo em y é certamente x1\n
+\n iii. Os coeficientes da regressão linear dependem unicamente da covariância e variância dos valores de X e y.\n
+\n Estão corretas\:{
+	=Nenhuma
+	~Somente i, ii
+	~Somente i, iii
+	~Somente ii
+	~Somente i
+}
+
+(T24) O coeficiente de determinação alto em uma regressão linear (próximo a 1) indica que há uma relação de causa efeito entre a variável dependente (efeito) e as
+variáveis independentes (causa) que se manifesta de modo linear {F} 
+
+(T25) Considere as seguintes afirmativas sobre o modelo de regressão logística\:
+\n
+\ni. É um modelo de classificação binária
+\nii. Os coeficientes da regressão são os mesmos obtidos pelo modelo de regressão linear múltipla
+\niii. A normalização dos valores não afeta o resultado do modelo (não é sensível à normalização) 
+\n
+São corretas\:\n
+{
+~ Somente i, ii, iii
+= Somente i
+~ Somente ii, iii
+~ Somente i, iii
+~ Nenhuma das alternativas
+}
+
+
+

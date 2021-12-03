@@ -1,0 +1,885 @@
+$CATEGORY: $course$/BIGPROVA_F
+
+(T1) Assinale a alternativa que melhor se aplica. Qual atividade NÃO faz parte da fase de Modelagem?
+{
+= Verificar a qualidade do dados
+~ Gerar conjunto de Teste
+~ Selecionar o Modelo
+~ Ajustar parãmetros do modelo
+~ Treinamento do Modelo (Aprendizado Supervisionado)
+}
+
+(T1) Assinale a alternativa que melhor se aplica. Qual atividade NÃO faz parte da fase de Entendimento dos Dados?
+{
+= Integrar os dados
+~ Verificar a qualidade do dados
+~ Explorar os dados através de ferramentas estatísticas e gráficas
+~ Descrever os dados (metadados)
+~ Coleta e acesso aos dados iniciais
+}
+
+(T1) Assinale a alternativa que melhor se aplica. Qual atividade NÃO faz parte da fase de Preparação dos Dados?
+{
+= Verificar a qualidade dos dados
+~ Integrar diferentes fontes de dados como bancos de dados, logs etc.
+~ Clean Data, como tratar dados faltantes, outliers etc.
+~ Seleção dos dados apropriados para o modelo
+~ Formatação dos dados
+}
+
+(T1) Assinale as alternativas que melhor se aplicam. Associe corretamente cada atividade à fase do Processo de Ciência de Dados.
+{
+= Verificar a quantidade de valores faltantes -> Entendimento dos Dados
+= Monitorar os resultados do modelo -> Distribuição 
+= Ajustar o número de camadas em um modelo de redes neurais -> Modelagem
+= Encode, Transformar dados categóricos em numéricos -> Preparação dos Dados
+}
+
+(T1) As fases de Ciência de Dados seguem sempre linearmente, cada fase sendo seguida da próxima após 
+a sua conclusão completa. {F} 
+
+(T1) Considere as seguintes fases do processo de Ciência de Dados\:
+\n 1. Modelagem
+\n 2. Preparação dos Dados
+\n 3. Entendimento dos Dados
+\n 4. Avaliação
+\n 5. Distribuição
+\n 6. Entendimento do Negócio
+\n A ordem correta dessas fases é dada por\:
+{
+= 6,3,2,1,4,5
+~ 6,4,2,3,1,5
+~ 6,4,3,2,1,5
+~ 6,1,3,2,4,5
+~ 1,6,3,2,5,4
+}
+
+$CATEGORY: $course$/BIGPROVA_M
+
+Considere as seguintes características relacionadas à Análise de Dados\:\n
+\n
+\ni. Emprego de Dados Estruturados
+\nii. Fluxo de Dados Contínuo
+\niii. Relatórios Periódicos com Visualização dos Dados
+\n
+Correspondem unicamente às características de abordagem mais atual da Ciência de Dados\:\n
+{
+~ Todas
+~ Somente i, ii
+= Somente ii
+~ Somente ii, iii
+~ Somente iii
+}
+
+$CATEGORY: $course$/BIGPROVA_D
+
+(T1) As fases de Entendimento e Preparação dos Dados correspondem em geral à que percentual do 
+processo de Análise de Dados\:
+{
+= À maior parte, mais que 80%
+~ À maior parte, mais que 60%
+~ A 50% do processo todo 
+~ À menor parte, menos que 40%
+~ À menor parte, menos que 20%
+}
+
+$CATEGORY: $course$/BIGPROVA_F
+
+(T2) Os modelos de regressão logística\:\n 
+\n i. Consideram sempre a variável dependente como sendo discreta  
+\n ii. Podem considerar variáveis independentes numéricas 
+\n iii. Consideram sempre a variável independente como sendo dicotômica 
+\n Estão corretas\:
+{
+= Todas corretas
+~ Somente i
+~ Somente iii
+~ Somente i, ii
+~ Somente ii, iii
+}
+
+(T2) Os modelos de regressão logística\:\n 
+\n i. Podem considerar qualquer número de variáveis independentes 
+\n ii. Podem considerar qualquer número de variáveis dependentes   
+\n iii. Podem ser utilizados para predição de valores ou quantidades
+\n Estão corretas\:
+{
+~ Todas corretas
+= Somente i
+~ Somente iii
+~ Somente i, ii
+~ Somente ii, iii
+}
+
+(T2) Os modelos de regressão linear\:\n 
+\n i. Podem considerar qualquer número de variáveis independentes 
+\n ii. Podem considerar qualquer número de variáveis dependentes   
+\n iii. Podem ser utilizados para predição de valores ou quantidades
+\n Estão corretas\:
+{
+~ Todas corretas
+~ Somente i
+~ Somente iii
+= Somente i, iii
+~ Somente ii, iii
+}
+
+(T2) Os coeficientes da regressão linear podem ser obtidos a partir de quaisquer conjuntos de dados numéricos mesmo que não tenham uma relação linear.{T}
+
+(T2) A regressão logística é um separador linear. Não pode, portanto, classificar corretamente dados que não sejam linearmente separáveis. {T} 
+
+(T2) Considere os seguintes problemas\: \n
+\n i. Estimar o preço de imóveis usados com base no histórico de características e preços de vários imóveis  
+\n ii. Estimar o efeito do aumento/redução da produção de peças com a redução do tempo da etapa de resfriamento 
+das peças com base nos dados de produção anteriores
+\n iii. Estimar o gasto de despesas médicas de um paciente médio com base no histórico de pacientes da clínica 
+\n iv. Estimar a rota de tempo mínimo de uma entrega baseado no histórico de entregas passadas 
+\n Um modelo de regressão linear pode ser aplicado a quais desses problemas? (assinale a melhor alternativa)
+{
+= Somente i, ii, iii
+~ Somente i
+~ Somente i, iii, iv
+~ Somente i, iii
+~ Somente i, ii
+}
+
+(T2) O coeficiente de determinação alto em uma regressão linear (próximo a 1) indica que há uma relação de causa efeito entre a variável dependente (efeito) e as
+variáveis independentes (causa) que se manifesta de modo linear. {F} 
+
+$CATEGORY: $course$/BIGPROVA_M
+
+(T2) A normalização dos dados não altera os coeficientes obtido na regressão linear. {F}
+
+(T2) Ao analisar a relação entre duas variáveis você obtém um coeficiente de determinação bastante baixo (pode considerar nulo se quiser).
+Assinale a melhor alternativa sobre a conclusão que você pode chegar sobre esse valor\:
+{
+= A variância de uma variável não pode ser explicada por um modelo linear a partir da variância da outra
+~ As variáveis não são dependentes
+~ As variáveis são dependentes
+~ As variáveis são dependentes por um polinômio de grau maior que 1
+~ As variáveis não tem qualquer dependência 
+} 
+
+(T2) Considere as seguintes afirmativas sobre o modelo de Regressão Linear\: \n
+\n i. Apresenta solução única dos coeficientes
+\n ii. Pode ser empregado em conjunto com transformações dos dados como log y \= a0 + a1.x1 +...+ an.xn
+\n iii. Pode envolver tanto mais de uma variável de entrada como mais de uma variável de saída
+\n Estão corretas\:
+{
+~ Todas corretas
+~ Somente i
+~ Somente iii
+= Somente i, ii
+~ Somente ii, iii
+}
+
+(T2) O modelo de Regressão Linear de um conjunto de pontos dados (X_d, y_d), minimiza\: 
+{
+= A distância dos pontos y_d do valor estimado y_e \= a0 + a1.x1 +...+ an.xn
+~ A diferença dos pontos y_d do valor estimado y_e \= a0 + a1.x1 +...+ an.xn
+~ A distância de todos os pares de pontos (x_d, y_d)
+~ A diferença de todos os pares de pontos (x_d, y_d) com relação ao pontos estimados (x_d, y_e)
+~ A distância de todos os pares de pontos (x_d, y_d) com relação ao pontos estimados (x_d, y_e)
+}
+
+$CATEGORY: $course$/BIGPROVA_D
+
+(T2) Considere o conjunto de pontos (x_d, y_d)\: (0,1), (1,0), (2,1).
+A reta que melhor aproxima (regressão linear) esse conjunto de pontos é (dica: desenhe os pontos)\: 
+{
+= y\=2/3
+~ y\=1/2
+~ y\=2x + 1
+~ y\=2x - 1
+~ y\=2x
+}
+
+(T2) Assinale a alternativa que melhor se aplica. Em modelo de Regressão Linear 
+podemos observar várias informações para avaliar a capacidade e a qualidade do modelo 
+na representação do dados. Uma informação que NÃO é empregada para esse fim é\:  
+{
+= O ganho de informação dos coeficientes
+~ R-Squared
+~ p-value dos coeficientes
+~ Intervalo de confiança dos coeficientes
+~ Nenhuma das alternativas
+}
+
+(T2) Um analista desenvolveu um modelo de Regressão Logística para classificar clientes com maior e menor risco de crédito para o Banco ABC. 
+O modelo foi de muito sucesso. Ele vê então a oportunidade de disponibilizar essa mesma Regressão para o Banco XYZ. 
+Ele deve obter os mesmos resultados de sucesso no Banco XYZ. {F}
+
+$CATEGORY: $course$/BIGPROVA_F
+
+(T3) A precisão é uma métrica que indica, das classificações positivas do modelo, quantas foram acertadas. {T}
+
+(T3) A revocação (recall, ou sensibilidade) é uma métrica que indica, das amostras positivas existentes, quantas um modelo consegue classificar corretamente. {T}
+
+(T3) Considere as seguintes afirmativas sobre a acuracidade de modelos supervisionados.
+\n
+\ni. É uma medida de qualidade dos modelos de classificação 
+\nii. É obtida como a razão (percentual) dos acertos do modelo sobre o conjunto de treinamento
+\niii. Pode ser obtida a partir de uma matriz de confusão
+\n
+São corretas\:\n
+{
+~ Somente i, ii, iii
+~ Somente i
+= Somente i, iii
+~ Somente iii
+~ Somente i, ii
+}
+
+(T*) Considere os seguintes modelos de aprendizado de máquina aplicados a um problema de classificação\: um modelo de regressão logística, 
+um modelo de k-vizinhos mais próximos e um modelo de árvore de decisão. 
+Assinale a melhor alternativa sobre o que você pode esperar do resultado desses modelos\:
+{
+= O melhor modelo irá depender dos dados
+~ O melhor modelo deve ser o modelo de árvore de decisão
+~ O melhor modelo deve ser o modelo de K-vizinhos mais próximos
+~ O melhor modelo deve ser o de regressão logística
+~ Para um mesmo conjunto de dados todos os modelos apresentarão o mesmo resultado
+}
+
+$CATEGORY: $course$/BIGPROVA_M
+
+(T3) Considere V, Verdadeiro, F, Falso, P, Positivos e N, negativos. A métrica de precisão é dada então por\:
+{
+= Precisao \= VP / ( VP + FP )
+~ Precisao \= VP / ( VP + FN )
+~ Precisao \= VP / ( FP + FN )
+~ Precisao \= ( VP - FP ) / ( VP + FP )
+~ Precisao \= ( VP + FP ) / ( VP - FP )
+} 
+
+(T3) Considere V, Verdadeiro, F, Falso, P, Positivos e N, negativos. A métrica de recall (ou revocação) é dada então por\:
+{
+~ Recall \= VP / ( VP + FP )
+= Recall \= VP / ( VP + FN )
+~ Recall \= VP / ( FP + FN )
+~ Recall \= ( VP - FP ) / ( VP + FP )
+~ Recall \= ( VP + FP ) / ( VP - FP )
+} 
+
+$CATEGORY: $course$/BIGPROVA_F
+
+(T4) Considere as seguintes afirmativas sobre o modelo de k vizinhos mais próximos\: \n
+\n i. O modelo é sensível a normalização dos dados
+\n ii. Sua saída é sempre uma classe binária do tipo “sim/não”, “0/1”, TRUE/FALSE
+\n iii. Quanto maior o valor de k maior a acuracidade do modelo
+\n Estão corretas\:
+{
+~ Todas corretas
+= Somente i
+~ Somente iii
+~ Somente i, ii
+~ Somente ii, iii
+}
+
+(T4) Você emprega o knn, k \=8, para classificar novos clientes de uma loja de títulos virtuais 
+com relação ao segmento de preferência (por exemplo, 'tecnologia', 'ciências' ou 'filosofia') com 
+base no perfil dos clientes. Sua base atual, de treinamento, é de 200.000 clientes. 
+\n Assinale a alternativa mais correta\:
+{
+= Para cada novo cliente que se deseja classificar serão calculadas 200.000 distâncias,
+uma para cada elemento do conjunto de treinamento
+~ O modelo não pode ser aplicado pois o valor de k escolhido é par
+~ Para cada novo cliente que se deseja classificar serão calculadas 8 distâncias,
+uma para cada elemento mais próximo
+~ O modelo não pode ser aplicado pois existe mais de duas classes de saída 
+~ Nenhuma alternativa correta
+}
+
+(T4) Considere as seguintes afirmativas sobre o modelo de k vizinhos mais próximos\: \n
+\n i. k pontos iniciais do modelo são escolhidos aleatoriamente
+\n ii. É um modelo de aprendizado Supervisionado
+\n iii. Tanto os dados de entrada X como a variável objetivo (classe) y precisam ser numéricas 
+\n Estão corretas\:
+{
+~ Todas corretas
+= Somente ii
+~ Somente iii
+~ Somente i, ii
+~ Somente ii, iii
+}
+
+(T4) Considere as seguintes afirmativas sobre o modelo k-vizinhos mais próximos.
+\n
+\ni. O modelo fornece o melhor valor de k para classificação 
+\nii. O modelo emprega uma função distância para classificação
+\niii. As variáveis preditoras precisam ser numéricas (ou transformadas para numéricas) mas a variável objetivo não necessariamente
+\n
+São corretas\:\n
+{
+~ Somente i, ii, iii
+~ Somente i
+= Somente ii, iii
+~ Somente i, iii
+~ Somente i, ii
+}
+
+(T4) Um modelo relacionado a saúde de bebês de um Laboratório de Exames cria uma classificação A, B ou C para os bebês. 
+O Seguinte conjunto de dados associa a idade em meses dos bebês e as classes obtidas\: 
+\n
+\n Idade em meses	\=(6,7,7,5,8,4,4,3,1,1) 
+\n Classe 		    \=(A,B,B,A,A,A,C,C,B,A) 
+\n
+Aplicando-se um modelo K-vizinhos mais próximos com K \= 3 e K \= 5, qual o valor estimado da classe para 
+um bebê com 7.2 meses?{ 
+= B e A respectivamente
+~ A e B respectivamente
+~ B nos dois casos
+~ A para K\=3 e indiferentemente A ou B para K\=5
+~ A nos dois casos
+}
+
+$CATEGORY: $course$/BIGPROVA_M
+
+(T4) Considere o seguinte conjunto de dados.\n
+\n 
+\n \t x1, \t x2, \t y
+\n \t--------------------------
+\n \t 0, \t 0, \t risk
+\n \t 0, \t 1, \t risk
+\n \t 1, \t 1, \t risk
+\n \t 1, \t 0, \t no risk
+\n \t 1, \t -1, \t no risk
+\n \t 2, \t 0, \t no risk
+\n 
+Para um algortimo KNN, com K=3, os valores (0,-1), (2,1) e (0,3) serão classificados respectivamente como\:
+{
+= no risk, no risk, risk
+~ no risk, risk, no risk
+~ risk, no risk, no risk
+~ risk, risk, no risk
+~ risk, risk, risk
+}
+
+(T4) Você está aplicando um modelo knn para prever que peças da linha de produção 
+serão aprovadas e quais não. Com isso você espera poder aplicar o controle de qualidade,
+que é dispendioso, a um número reduzido de peças e reduzir assim o custo de produção. 
+Na escolha do modelo\: (assinale a melhor alternativa)
+{
+= Você usa diferentes atributos de entrada e valores e k, optando pelo modelo de maior acuracidade
+~ Você usa diferentes atributos de saída e valores e k, optando pelo modelo de maior acuracidade
+~ Você usa diferentes atributos de entrada e valores e k, optando pelo maior número de atributos e maior k
+~ Você usa todos os atributos de entrada e varia os valores e k, optando pelo modelo com todos os atributos 
+e o valor de k que retorna maior acuracidade
+~ Você apenas emprega o menor valor de k
+}
+
+$CATEGORY: $course$/BIGPROVA_D
+
+(T4) Considere as seguintes afirmativas sobre a Validação Cruzada\:\n
+\n i. Novas partições são escolhidas aleatoriamente a cada treinamento realizado
+\n ii. Permite empregar dados de validação sem a necessidade de separarmos uma parte dos dados de treinamento
+\n iii. Emprega dados de validação e não requer, portanto, dados de teste
+\n Estão corretas\:
+{
+~ Todas corretas
+= Somente ii
+~ Somente iii
+~ Somente i, ii
+~ Somente ii, iii
+}
+
+$CATEGORY: $course$/BIGPROVA_F
+
+(T52) O Ganho de Informação, no contexto da análise de dados, é\:
+{
+= Uma medida de quanto um atributo dos dados é relevante para determinar um outro atributo
+~ Uma medida de quantidade de informação
+~ Uma medida de dispersão dos dados
+~ Uma medida de correlação
+~ Uma medida de dependência entre duas variáveis
+}
+
+(T5) O modelo de Floresta Aleatória é um modelo que combina diferentes árvores de decisão (ensemble model) e 
+em geral permite evitar o sobre ajuste dos modelos de árvore única. {T}
+
+(T5) Considere a seguinte tabela de valores em que dados coletados (A,B e C) 
+parecem determinar o valor de uma variável objetivo T (classe). 
+\n 
+\n A | B | C | T 
+\n 1 | 0 | Y | 1 
+\n 0 | 1 | Y | 1 
+\n 1 | 1 | Y | 0  
+\n 1 | 0 | N | 1 
+\n
+Na construção de uma Árvore de Decisão, que atributos que levam imediatamente a ramos com nós terminais?{ 
+= A com valor 0, B com valor 0, e C com valor N   
+~ A com valor 0, B com valor 0 e 1, e C com valor N   
+~ A com valor 0, B com valor 0, e C com valor Y   
+~ A com valor 1, B com valor 0 e 1, e C com valor N   
+~ A com valor 1, B com valor 0, e C com valor Y   
+}
+
+(T5) O modelo de Floresta Aleatória é um modelo em que os dados são particionados treinando-se, assim, uma árvore 
+diferente para cada partição dos dados. {F}
+
+$CATEGORY: $course$/BIGPROVA_M
+
+(T5) Considere as seguintes afirmativas sobre o modelo de Árvores de Decisão\: \n
+\n i. O modelo de Árvore de Decisão é único, isto é, para um dado conjunto de treinamento existe uma
+única Árvore de Decisão que pode ser construída
+\n ii. Modelos de Árvore de Decisão não podem empregar atributos com valores contínuos, pois cada nó 
+tem como ramos todos os possíveis valores do atributo 
+\n iii. A Árvore de Decisão é um modelo de particionamento dos dados, em cada nível da Árvore um novo
+particionamento dos dados é feito
+\n Estão corretas (assinale a melhor alternativa)\:
+{
+~ Todas corretas
+~ Somente ii
+= Somente iii
+~ Somente i, ii
+~ Somente ii, iii
+}
+
+(T5) Considere as seguintes afirmativas sobre o modelo de Árvores de Decisão\: \n
+\n i. O número de níveis da Árvore determina o número de particionamento dos dados
+\n ii. A Árvore de Decisão é sempre binária, de cada nó partem somente dois ramos para o 
+nível inferior  
+\n iii. A predição de classe de uma nova entrada de dados em uma Árvore de Decisão só pode
+ser obtida após a passagem por TODOS os níveis da Árvore
+\n Estão corretas (assinale a melhor alternativa)\:
+{
+~ Todas corretas
+~ Somente ii
+= Somente i
+~ Somente i, ii
+~ Somente ii, iii
+}
+
+(T5) Você está aplicando um modelo de Árvore de Decisão para a seleção de novos fornecedores
+de peças para Tratores com base nos dados históricos dos fornecimentos passados. Os fornecedores 
+serão classificados entre Rejeitados, Preferencial e Contingente (quando o Preferencial não pode 
+atender a demanda). São 32 as características disponíveis dos fornecedores em sua base de dados. 
+Na escolha do modelo\: (assinale a melhor alternativa)
+{
+= Você usa diferentes atributos de entrada e parâmetros da Árvore de Decisão, 
+como profundidade máxima e função de entropia ou gini, optando pelo modelo de maior acuracidade
+~ Você usa diferentes parâmetros da Árvore de Decisão, como profundidade máxima e função de entropia ou gini, 
+optando pelo modelo de maior acuracidade, mas sem alterar os atributos de entrada que são dados
+~ Você usa o critério de maior Entropia para escolha do modelo
+~ Você usa diferentes atributos de entrada e parâmetros da Árvore de Decisão, 
+como profundidade máxima e função de entropia ou gini, optando pela Árvore maior (maior número de níveis)
+que irá proporcionar a maior acuracidade 
+~ Você emprega um número de níveis máximo igual ao número de atributos de entrada
+}
+
+(T5) Você está aplicando um modelo de Árvore de Decisão para a seleção de novos fornecedores
+de peças para Tratores com base nos dados históricos dos fornecimentos passados. Os fornecedores 
+serão classificados entre Rejeitados, Preferencial e Contingente (quando o Preferencial não pode 
+atender a demanda). São 32 as características disponíveis dos fornecedores em sua base de dados. 
+Sua Árvore de Decisão tem 18 níveis e o conjunto de treinamento 1.252 fornecedores. 
+\n Considere agora o seguinte\:\n
+\n i. A classificação de alguns fornecedores pode ocorrer primeiros níveis da Árvore, sem 
+passar pelos 18 níveis
+\n ii. No máximo serão feitas 18 comparações de atributos/valores para a classificação de cada
+novo fornecedor 
+\n iii. A Árvore garante a distribuição ótima dos fornecedores entre as 3 classes de Rejeitados, 
+Preferencial e Contingente  
+\n Estão corretas (assinale a melhor alternativa)\:
+{
+~ Todas corretas
+~ Somente ii
+~ Somente i
+= Somente i, ii
+~ Somente ii, iii
+}
+
+(T5) Considere o modelo de Árvore de Decisão e as seguintes afirmativas\:\n
+\n i. É um modelo de Aprendizado Supervisionado
+\n ii. Permite empregar dados categóricos diretamente sem transformações
+\n iii. Emprega como função distância a distância Euclidiana
+\n Estão corretas (assinale a melhor alternativa)\:
+{
+~ Todas corretas
+~ Somente ii
+~ Somente i
+= Somente i, ii
+~ Somente ii, iii
+}
+ 
+$CATEGORY: $course$/BIGPROVA_D
+
+O Ganho de Informação G( ), baseado na Entropia de Shannon, é um dos critérios para selecionar atributos candidatos a 
+raiz em uma Árvore de Decisão. Considere os dados abaixo onde T é a classe atribuída a cada item de dados.\n\n
+\n A | B | C | T
+\n 1 | 0 | Y | 1
+\n 0 | 1 | Y | 1
+\n 1 | 0 | Y | 0
+\n 1 | 0 | N | 1
+\nSobre o Ganho de Informação dos Atributos com relação a T é correto afirmar\:
+{ 
+= G(A) \= G(B) \= G(C) , todos iguais.
+~ G(A) !\= G(B)\= G(C) , G(A) difere dos demais.
+~ G(A) \= G(B) !\= G(C) , G(C) difere dos demais.
+~ G(A) !\= G(B) !\= G(C) , todos diferem.
+~ G(A) > G(B) > G(C)
+} 
+
+(T5) Considere a seguinte tabela de valores em que dados coletados (A,B e C) parecem determinar 
+o valor de uma variável objetivo T (classe). 
+\n 
+\n A | B | C | T 
+\n 1 | 0 | Y | 1 
+\n 0 | 1 | Y | 1 
+\n 1 | 1 | Y | 0  
+\n 1 | 0 | N | 1 
+\n
+Sobre a entropia dos atributos acima é correto afirmar \: \n
+(DICA: você pode querer calcular as entropias, mas poderá resolver apenas aplicando os conceitos) 
+{
+= B tem entropia 1 e A, C e T tem a mesma entropia  
+~ Todos atributos tem a mesma Entropia 
+~ Apenas A e C tem a mesma entropia  
+~ Os atributos A, B e T, com valores 0 e 1, tem a mesma entropia
+~ Apenas B e T tem a mesma entropia 
+}  
+
+(T5) Considere os dados abaixo onde T é a classe atribuída a cada item de dados.\n\n
+\n A | B | T
+\n 1 | 0 | Yes
+\n 0 | 1 | No
+\n 0 | 0 | Yes
+\n 1 | 0 | No
+\n Ao construir uma Árvore de Decisão a melhor escolha do nó raiz recai sobre o atributo\:
+{
+~ A, que tem 0 como ramo terminal.
+~ B, que tem 0 como ramo terminal.
+= B, que tem 1 como ramo terminal.
+~ A, que tem 1 como ramo terminal.
+~ Somente T pode ser nó terminal.
+} 
+
+$CATEGORY: $course$/BIGPROVA_F
+
+(T6) Considere as seguintes afirmativas\: \n
+\n\n i. No kmeans o número de grupos é determinado pelo modelo
+\n\n ii. A 'regra do cotovelo' busca fazer um balanceamento de métricas de grupo
+\n\n iii. Após a clusterização podemos facilmente determinar a classe de grupo,\npor exemplo, fraude/não fraude para a clusterização de operações de compra com cartões
+\n\n Estão corretas\:{
+	=Somente ii
+	~Somente i, ii, iii
+	~Somente i, iii
+	~Somente ii, iii
+	~Somente i
+}
+
+(T6) Considere as seguintes afirmativas sobre Clusterização\: \n
+\n\n i. Definido os parâmetros da Clusterização Hierárquica (por ex. função distância, função de ligação etc.)
+\no resultado da Clusterização é único
+\n\n ii. A medida da acuracidade não faz sentido na Clusterização pois os grupos não estão pré-definidos,
+\nnão tendo sentido, portanto, uma verificação da quantidade de 'acertos'
+\n\n iii. Modelos de Clusterização Hierárquica e Kmédias levam aos mesmos agrupamentos se, e somente se,
+\nempregarmos o mesmo númerp de grupos K
+\n\n Estão corretas\:
+{
+	=Somente i, ii
+	~Somente i, ii, iii
+	~Somente i, iii
+	~Somente ii, iii
+	~Somente i
+}
+
+$CATEGORY: $course$/BIGPROVA_F
+
+[html]<p>Em Modelos de Aprendizado não Supervisionado não temos uma classe a priori para os dados, como Fraude/Não Fraude, Yes/No etc. 
+Os grupos são nomeados posteriormente após conhecermos as características dos grupos formados.</p>{T}
+
+[html]<p>(T6) Considere os modelos de Clusterização Hierárquica e K-médias.</p>
+\n<p>i. São modelos de Aprendizado não Supervisionado.</p>
+\n<p>ii. O dendograma, a exemplo das Árvores de Decisão não requerem um função distância e, por isso, podem trabalhar com dados categóricos sem transformação.</p>
+\n<p>iii. Ambos são algoritmos iterativos.</p>\n<p> </p>
+\n<p>É correto afirmar\:</p>
+{
+	=<p>Somente i. e iii.</p>
+	~<p>Todas estão corretas.</p>
+	~<p>Somente i. e ii.</p>
+	~<p>Somente ii. e iii.</p>
+	~<p>Nenhuma correta</p> 
+}}
+
+$CATEGORY: $course$/BIGPROVA_M
+
+[html]<p>(T6) Considere os seguintes valores de idade de um grupo de pessoas.</p>\n<p><strong>c(11, 11, 12, 12, 12, 12, 13, 13, 16, 17, 18, 19, 20) </strong></p>\n<p>Você deseja dividir essas pessoas em 2 grupos de forma a distribuí-las entre 2 monitores para uma visita assistida aos laboratórios de Ciências de Dados de uma Universidade. Você decide empregar um algoritmo K-Médias para fazer a separação dos grupos. Como resultado você tem os seguintes centroides e número de pessoas em cada grupo\:</p>
+{
+	=<p>C1 \= 12, C2 \= 18 com 8 e 5 elementos respectivamente</p>
+	~<p>C1 \= 12, C2 \= 18 com 5 e 8 elementos respectivamente</p>
+	~<p>C1 \= 12, C2 \= 16 com 6 e 7 elementos respectivamente</p>
+	~<p>C1 \= 12, C2 \= 16 com 7 e 6 elementos respectivamente</p> 
+	~<p>C1 \= 12, C2 \= 16 com 4 e 9 elementos respectivamente</p>
+}
+
+$CATEGORY: $course$/BIGPROVA_D
+
+(T6) Considere unicamente a construção de Clusters pelo método Hierárquico.
+\nQual dos itens abaixo se alterado/aplicado não afeta a formação de diferentes Clusters\:
+{
+	=Determinação dos Centróides dos Grupos
+	~Função de similaridade (função distância)
+	~Função de Ligação (complete, single etc.)
+	~Forma de Construção (aglomerativa, divisiva)
+	~Normalização dos dados
+}
+
+[html]<p>(T6) Sobre os Dendogramas.</p>
+\n<p>i. São construídos em geral pelo método divisivo, partindo-se de um único agrupamento para agrupamentos menores (ao contrário do método aglomerativo).</p>
+\n<p>ii. É um modelo Hierárquico ao contrário do K-médias (não Hierárquico).</p>
+\n<p>iii. Grupos (Clusters) são definidos a partir de um corte em algum nível do dendograma.</p>
+\n<p> </p>\n<p>É correto afirmar\:</p>
+{
+	=<p>Somente ii. e iii.</p>  
+	~<p>Somente i. e ii.</p>
+	~<p>Somente iii.</p> 
+	~<p>Somente ii.</p>
+	~<p>Todas corretas</p>
+}
+
+$CATEGORY: $course$/BIGPROVA_F
+
+(T7) Considere as seguintes afirmativas sobre os Sistemas de Recomendação baseados em Filtro de Conteúdo por Itens\:\n\n
+\n i. Os itens são representados por vetores (atributos ou features) de características
+\n ii. A distância dos vetores de características é empregada como um métrica de similaridade para encontrar o itens mais similares
+\n iii.Os dados dos itens e dos usuários são combinados em uma matriz de relacionamento para efetuar as recomendações
+\n Estão corretas\:
+{
+= Somente i., ii  
+~ Somente i.
+~ Somente ii., iii.
+~ Somente iii. 
+~ Todas estão corretas.
+}
+
+(T7) Considere as seguintes afirmativas sobre os Sistemas de Recomendação baseados em Filtro de Conteúdo por Usuário\:\n\n
+\n i. Os usuários são representados por vetores (atributos ou features) de características
+\n ii. A distância dos vetores de características é empregada como um métrica de similaridade para encontrar usuários semelhantes
+\n iii. Itens consumidos por esses usuários semelhantes são, então, sugeridos 
+\n Estão corretas\:
+{
+~ Somente i., ii  
+~ Somente i.
+~ Somente ii., iii.
+~ Somente iii. 
+= Todas estão corretas.
+}
+
+(T7) Considere os seguintes itens\: 
+\n i. [ Lâmpada, Soquete ] -> [ Fio ]
+\n ii. [ Fio ] -> [ Lâmpada, Soquete ] 
+\n iii. [ Lâmpada ] -> [ Soquete ]
+\n São Regras corretas de associação\:
+{
+= Todas
+~ Somente i, ii
+~ Somente i, iii
+~ Somente ii
+~ Somente i
+}
+
+(T7) O Lift, ou elevação, fornece uma métrica de o quanto provável é uma associação de itens com relação a 
+esses itens aparecerem juntos ao acaso. É um valor entre -1 e 1, e regras relevantes devem ter
+o valor de elevação > 0. {F}
+
+(T7) Os sistemas de recomendação encontram-se divididos basicamente em 3 categorias. São elas\:
+{
+= Sistemas baseados em conteúdo, filtragem colaborativa e mistos
+~ Sistemas baseados em usuários, itens e mistos
+~ Sistemas baseados em filtros de conteúdo, filtros de usuário e filtros colaborativos 
+~ Sistemas baseados em filtros de conteúdo de itens, de usuários e mistos
+~ Sistemas baseados em sistemas colaborativos de conteúdo, itens e usuários 
+}
+
+(T7) Considere as seguintes afirmativas relacionadas a sistemas de Sistemas de Recomendação\:\n\n
+\n i. Em um Sistema de Recomendação, ao buscarmos os K-vizinhos mais próximos o K deve ser determinado pela melhor acuracidade
+\n ii. Modelos como Regressão Logística e Árvores de Decisão podem ser igualmente aplicados como K-vizinhos mais próximos para buscar items ou usuários semelhantes
+\n iii. O modelo de K-vizinhos pode empregar diferentes métricas de distância e, por exemplo, a distância cosseno é uma das medidas mais comumente empregadas 
+em sistemas de recomendação
+\n Estão corretas\:
+{
+~ Somente i., ii  
+~ Somente i.
+~ Somente ii., iii.
+= Somente iii. 
+~ Todas estão corretas.
+}
+
+(T7) Considere os seguintes afirmativas sobre o processo de descoberta de regras de associação\: 
+\n i. É um processo de aprendizado Supervisionado
+\n ii. Existe um grande número de regras de associação possíveis mas a maior parte não é útil 
+\n iii. O número de regras possível cresce exponencialmente com o número de itens
+\n São corretas\:
+{
+~ Todas
+~ Somente i, ii
+= Somente ii, iii
+~ Somente ii
+~ Somente i
+}
+
+$CATEGORY: $course$/BIGPROVA_M
+
+(T7) Em regras de associação as métricas como suporte, confiança e elevação são utilizadas para
+filtrar as regras mais úteis. Um limite mínimo menor de uma métrica garante que um menor número
+regras será então selecionado. {F}
+
+(T7) Considere os seguintes afirmativas sobre regras de associação, a técnicas apriori e seu uso prático com pacotes Python\: 
+\n i. A técnica apriori leva em consideração as quantidades vendidas de cada produtos em cada compra 
+\n ii. Princípio Apriori diz que se um conjunto de itens é frequente, então todos os seus subconjuntos também devem ser frequentes
+\n iii. Valores maiores de suporte sempre levam a valores maiores de confiança e elevação
+\n São corretas\:
+{
+~ Todas
+~ Somente i, ii
+= Somente ii, iii
+~ Somente ii
+~ Somente i
+}
+
+(T7) Considere as seguintes afirmativas sobre os Sistemas de Recomendação baseados em Filtro de Conteúdo por Usuário\:\n\n
+\n i. São sistemas complexos que devem combinar outros critérios para a recomendação final, como quantidade de itens a serem sugeridos, maior interesse da
+oferta etc. 
+\n ii. Por requerem que os dados dos itens ou dos usuários sejam representados em por vetores (atributos ou features) de características, 
+dados tipo texto, como comentários dos usuários ou descrição detalhada dos itens, não podem ser empregadas nesses sistemas, sendo necessário o uso de 
+sistemas de aprendizado supervisionado
+\n iii. Não podem ser aplicados a um problema como a recomendação de contatos em uma rede social pois neste caso há somente dados dos usuários e não há dados de itens
+\n Estão corretas\:
+{
+~ Somente i., ii  
+= Somente i.
+~ Somente ii., iii.
+~ Somente iii. 
+~ Todas estão corretas.
+}
+
+(T7) Considere os seguintes afirmativas sobre a mineração de regras de associação\: 
+\n i. Requer o emprego de uma métrica de distância para medir a similaridade dos produtos
+\n ii. Pode ser empregada para fazer recomendações de produtos aos usuários
+\n iii. É um modelo preditivo
+\n São corretas\:
+{
+~ Todas
+~ Somente i, ii
+~ Somente ii, iii
+= Somente ii
+~ Somente i
+}
+
+(T7) Considere os seguintes afirmativas sobre a mineração de regras de associação\: 
+\n i. Pode ser empregado para determinar outros tipos de associação de interesse como, por exemplo, 
+falhas em equipamentos e seus fornecedores 
+\n ii. Pode ser empregado para determinar outros tipos de associação de interesse como, por exemplo, 
+maior incidência de uma doença e alimentos
+\n iii. As associações não revelam necessariamente relações de causa-efeito, mas apenas evidenciam uma 
+maior frequência das associações
+\n São corretas\:
+{
+= Todas
+~ Somente i, ii
+~ Somente ii, iii
+~ Somente ii
+~ Somente i
+}
+
+(T7) Considere os seguintes afirmativas sobre o processo de descoberta de regras de associação\: 
+\n i. É um processo de aprendizado Supervisionado
+\n ii. Existe um grande número de regras de associação possíveis mas a maior parte não é útil 
+\n iii. O número de regras possível cresce exponencialmente com o número de itens
+\n São corretas\:
+{
+~ Todas
+~ Somente i, ii
+= Somente ii, iii
+~ Somente ii
+~ Somente i
+}
+
+$CATEGORY: $course$/BIGPROVA_D
+
+(T7) Qual métrica na mineração de regras de associação revela que um item Y foi adquirido junto com o item X 
+acima do que poderíamos esperar de uma associação ao acaso? 
+{
+= Lift ou elevação
+~ Suporte
+~ Confiança
+~ Leverage ou alavancagem
+~ Convicção
+} 
+
+(T7) Qual métrica informa a probabilidade de o item Y ser comprado junto com o item X em
+relação ao que poderíamos supor ao acaso?
+{
+~ confidence(X -> Y)
+~ support(X -> Y)
+= lift(X -> Y)
+~ leverage(X -> Y)
+~ conviction(X -> Y)
+} 
+
+(T7) Qual a definição da métrica leverage?
+{
+= Leverage(X -> Y) \= Support(X intersecção Y) − Support(X) Support(Y)
+~ Leverage(X -> Y) \= Support(X intersecção Y) / ( Support(X) Support(Y) )
+~ Leverage(X -> Y) \= Support(X) Support(Y) - Support(X intersecção Y) 
+~ Leverage(X -> Y) \= ( Support(X) Support(Y) ) / Support(X intersecção Y) 
+~ Leverage(X -> Y) \= Confidence(X -> Y) / ( Support(X) Support(Y) )
+} 
+
+$CATEGORY: $course$/BIGPROVA_F
+
+(T8) Modelos neurais Multilayer Perceptron supervisionados permitem resolver problemas de classificação como também de regressão
+não lineares {T}
+
+(T8) Considere as seguintes afirmativas sobre o modelo Perceptron\: \n
+\n i. Fornece como saída uma combinação linear das entradas
+\n ii. Podem ser combinados em camadas para criar redes de neurônios artificiais
+\n iii. Seu aprendizado permite resolver somente problemas linearmente separáveis 
+\n Estão corretas:
+{
+~ Nenhuma das alternativas
+~ Somente i
+~ Somente iii
+~ Somente i, ii
+= Somente ii, iii
+}
+
+(T8) Considere as seguintes funções\: \n
+\n i. AND
+\n ii. NOT OR
+\n iii. XOR
+\n O modelo Perceptron tem capacidade para aprender que funções? 
+{
+~ Nenhuma das alternativas
+~ Somente i
+~ Somente iii
+= Somente i, ii
+~ Somente ii, iii
+}
+
+$CATEGORY: $course$/BIGPROVA_D
+
+(T8) Considere as seguintes afirmativas sobre o modelo Perceptron\: \n
+\n i. O modelo busca se aproximar ao máximo do neurônio biológico
+\n ii. Requer valores de entrada entre 0 e 1
+\n iii. Produz sempre valores de saída entre -1 e 1
+\n Estão corretas:
+{
+= Nenhuma das alternativas
+~ Somente i
+~ Somente iii
+~ Somente i, ii
+~ Somente ii, iii
+}
+
+
+
+
+
+
+
+
+
+
+
+

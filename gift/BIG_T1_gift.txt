@@ -1,0 +1,60 @@
+$CATEGORY: $course$/BIGT1
+
+(T11) Considere as seguintes fases do processo de Ciência de Dados\:
+\n 1. Modelagem
+\n 2. Preparação dos Dados
+\n 3. Entendimento dos Dados
+\n 4. Avaliação
+\n 5. Distribuição
+\n 6. Entendimento do Negócio
+\n A ordem correta dessas fases é dada por\:
+{
+= 6,3,2,1,4,5
+~ 6,4,2,3,1,5
+~ 6,4,3,2,1,5
+~ 6,1,3,2,4,5
+~ 1,6,3,2,5,4
+}
+
+(T12) As fases de Entendimento e Preparação dos Dados correspondem em geral à que percentual do 
+processo de Análise de Dados\:
+{
+= À maior parte, mais que 80%
+~ À maior parte, mais que 60%
+~ A 50% do processo todo 
+~ À menor parte, menos que 40%
+~ À menor parte, menos que 20%
+}
+
+(T13) O processo de Ciência de Dados se aplica unicamente a dados Big Data.{F} 
+
+(T14) O aprendizado de máquina envolve um grande volume de dados
+e a busca de um padão para que se possam fazer predições e tomada de decisões.
+Considere então as seguintes potenciais aplicações da Ciência de Dados\:
+\n i) Determinar através de uma vasta coleta de dados da órbita de um satélite o local de queda 
+de um satélite no final de sua vida útil
+\n ii) Determinar por inspecção visual chapas de aço tratadas com baixa qualidade para rejeito
+com base em dados históricos 
+\n iii) Identificar o perfil de desistência de alunos matriculados em cursos de graduação para
+planejar ações de redução de evasão
+\n
+São aplicações corretas de Ciência de Dados e Aprendizado de Máquina\:
+{
+~ Todas
+~ Somente i
+~ Somente i, ii
+= Somente ii, iii
+~ Somente ii
+}
+
+(T15) Associe corretamente\:
+{
+= Classificação	-> Fraud/not Fraud, Churn/Not Churn
+= Regressão	-> Preços de Imóveis, Aluguéis, Veículos
+= Clusterização	-> Segmentação de Clientes, Produtos, Documentos
+= Regras de Associação -> Pacotes de produtos
+= Anomaly Detection	-> Mal funcionamento de dispositivos, Ataques cibernéticos
+= Matching	-> Recomendação de produtos ou amigos de uma rede social
+} 
+
+

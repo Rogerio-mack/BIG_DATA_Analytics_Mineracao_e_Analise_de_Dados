@@ -1,0 +1,68 @@
+$CATEGORY: $course$/BIGT4
+
+(T41) O propósito do conjunto de teste é ser empregado para o ajuste dos hiperparâmetros de um modelo, enquanto 
+o propósito do conjunto de validação é a validação final do resultado do modelo. {F}
+
+(T42) Considere as seguintes afirmativas sobre o modelo k-vizinhos mais próximos.
+\n
+\ni. O modelo fornece o melhor valor de k para classificação 
+\nii. O modelo emprega uma função distância para classificação
+\niii. As variáveis preditoras precisam ser numéricas (ou transformadas para numéricas) mas a variável objetivo não necessariamente
+\n
+São corretas\:\n
+{
+~ Somente i, ii, iii
+~ Somente i
+= Somente ii, iii
+~ Somente i, iii
+~ Somente i, ii
+}
+
+(T43) Um modelo relacionado a saúde de bebês de um Laboratório de Exames cria uma classificação A, B ou C para os bebês. 
+O Seguinte conjunto de dados associa a idade em meses dos bebês e as classes obtidas\: 
+\n
+\n Idade em meses	\=(6,7,7,5,8,4,4,3,1,1) 
+\n Classe 		    \=(A,B,B,A,A,A,C,C,B,A) 
+\n
+Aplicando-se um modelo K-vizinhos mais próximos com K \= 3 e K \= 5, qual o valor estimado da classe para 
+um bebê com 7.2 meses?{ 
+= B e A respectivamente
+~ A e B respectivamente
+~ B nos dois casos
+~ A para K\=3 e indiferentemente A ou B para K\=5
+~ A nos dois casos
+}
+
+(T44) Considere as seguintes afirmativas sobre a Validação Cruzada\:\n
+\n i. São executados no mínimo tantos treinamentos quantos forem o número de partições empregado
+\n ii. O resultado de uma métrica, como a acuracidade, é obtido pela média das execuções
+\n iii. As partições ser de tamanhos diferentes e escolhidas aleatoriamente para evitar viés
+\n Estão corretas\:
+{
+~ Todas corretas
+~ Somente ii
+~ Somente iii
+= Somente i, ii
+~ Somente ii, iii
+}
+
+(T45) Considere as seguintes afirmativas sobre o modelo de k vizinhos mais próximos\: \n
+\n i. O modelo emprega a distância Euclidiana, mas outras funções distância podem ser empregadas
+\n ii. A função distância d() é aplicada às variáveis de entrada (X) e à variável objetivo (y, ou classe),
+sendo os vizinhos mais próximos os pontos com menor distância d(X,y)
+\n iii. Para o modelo, em caso de empate das classes dos vizinhos mais próximos, a classe atribuída 
+será indiferente já que têm a mesma probabilidade 
+\n Estão corretas\:
+{
+~ Todas corretas
+~ Somente i
+~ Somente ii
+= Somente i, ii
+~ Somente ii, iii
+}
+
+
+
+
+
+

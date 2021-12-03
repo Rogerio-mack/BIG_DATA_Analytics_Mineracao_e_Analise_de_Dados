@@ -1,0 +1,51 @@
+$CATEGORY: $course$/BIGT7
+
+(T71) Os sistemas de recomendação encontram-se divididos basicamente em 3 categorias. São elas\:
+{
+= Sistemas baseados em conteúdo, filtragem colaborativa e mistos
+~ Sistemas baseados em usuários, itens e mistos
+~ Sistemas baseados em filtros de conteúdo, filtros de usuário e filtros colaborativos 
+~ Sistemas baseados em filtros de conteúdo de itens, de usuários e mistos
+~ Sistemas baseados em sistemas colaborativos de conteúdo, itens e usuários 
+}
+
+(T72) Considere as seguintes afirmativas relacionadas a sistemas de Sistemas de Recomendação\:\n\n
+\n i. Em um Sistema de Recomendação, ao buscarmos os K-vizinhos mais próximos o K deve ser determinado pela melhor acuracidade
+\n ii. Modelos como Regressão Logística e Árvores de Decisão podem ser igualmente aplicados como o K-vizinhos mais próximos para buscar items ou usuários semelhantes
+\n iii. O modelo de K-vizinhos pode empregar diferentes métricas de distância e, por exemplo, a distância cosseno é uma das medidas mais comumente empregadas 
+em sistemas de recomendação
+\n Estão corretas\:
+{
+~ Somente i., ii  
+~ Somente i.
+~ Somente ii., iii.
+= Somente iii. 
+~ Todas estão corretas.
+}
+
+(T73) As regras [ Lâmpada ] \=> [ Soquete ] e [ Soquete ] \=> [ Lâmpada ] podem ser entendidas como 
+a mesma regra uma vez que os produtos são nos dois casos adquiridos juntos. {F}
+
+(T74) Considere os seguintes afirmativas sobre o processo de descoberta de regras de associação\: 
+\n i. É um processo de aprendizado Supervisionado
+\n ii. Existe um grande número de regras de associação possíveis mas a maior parte não é útil 
+\n iii. O número de regras possível cresce exponencialmente com o número de itens
+\n São corretas\:
+{
+~ Todas
+~ Somente i, ii
+= Somente ii, iii
+~ Somente ii
+~ Somente i
+}
+
+(T75) Qual métrica mede a frequência com que os itens em Y aparecem em transações que contêm X?
+{
+= confidence(X -> Y)
+~ support(X -> Y)
+~ lift(X -> Y)
+~ leverage(X -> Y)
+~ conviction(X -> Y)
+} 
+
+

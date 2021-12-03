@@ -1,0 +1,143 @@
+$CATEGORY: $course$/BIGTAP1
+
+Q1. Quantos bairros existem no histórico e qual o bairro mais presente nos dados?
+{
+= 5 e Vila Mariana
+~ 4 e Santana
+~ 5 e Tatuapé
+~ 5 e Vila Nova Conceição
+~ 4 e Morumbi
+} 
+
+Q2. Qual o coeficiente de determinação ajustado obtido? (primeiro modelo)
+{ 
+= 0.79481
+~ 0.79485
+~ 0.79498
+~ 0.79345
+~ 0.79501
+} 
+
+Q3. Qual coeficiente estimado é menos significativo? (primeiro modelo)
+{ 
+= número de banheiros
+~ area em metros quadrados
+~ número de suítes
+~ número de vagas
+~ número de dormitórios
+} 
+
+Q4. Qual o novo coeficiente de determinação ajustado obtido? (segundo modelo)
+{ 
+= 0.79485
+~ 0.79401
+~ 0.79498
+~ 0.79345
+~ 0.79501
+} 
+
+Q5. Qual o preço estimado, para o melhor dos modelos obtidos, de um imóvel na Vila Mariana, com 134 m2, 1 suite, 4 dorm, 3 banheiros e 3 vagas?
+{
+= 1.350.584
+~ 1.250.584
+~ 1.450.584
+~ 998.584
+~ 1.998.584
+} 
+
+$CATEGORY: $course$/BIGTAP3
+
+Q1. Após todas as transformações a soma dos valores absolutos ( np.abs( ) ) dos atributos referentes ao hot encode dos BH, RJ e SP são respectivamente?
+Empregue esta pergunta como ponto de checagem das suas transformações. Se não encontrar os seus valores dentre as alternativas há provavelmente um erro e você deve revisar as transformações.
+{ 
+= 459.1, 433.0, 497.2 
+~ 59.1, 33.0, 97.2 
+~ 49.1, 43.0, 47.2 
+~ 149.1, 143.0, 147.2 
+~ 9.1, 3.0, 7.2 
+}
+
+Q2. Qual o melhor modelo de Knn obtido e qual a sua acuracidade?
+{
+= k\=7, com distância manhattan
+~ k\=7, com distância euclidiana
+~ k\=4, com distância manhattan
+~ k\=9, com distância euclidiana
+~ k\=9, com distância manhattan
+} 
+
+Q3. Qual classe teve os elementos mais erroneamente classificados? (melhor modelo Knn)
+{ 
+= Refurbish
+~ Accept
+~ Reject
+~ Refurbish e Accept igualmente
+~ Reject e Accept igualmente
+} 
+
+Q4. Qual a acuracidade do modelo de regressão logística e qual classe teve mais falsos positivos?
+{ 
+~ 0.97, Refurbish
+= 0.97, Accept
+~ 0.92, Reject
+~ 0.97, Refurbish e Accept igualmente
+~ 0.93, Reject e Accept igualmente
+} 
+
+Q5 Quais as classes obtidas com o melhor modelo para os cinco novos casos?
+{
+= Accept, Accept, Reject, Accept, Refurbish
+~ Reject, Accept, Refurbish, Accept, Accept 
+~ Accept, Refurbish, Accept, Accept, Reject
+~ Accept, Refurbish, Accept, Accept, Accept
+~ Refurbish, Accept, Reject, Accept, Refurbish
+} 
+
+$CATEGORY: $course$/BIGTAP5
+
+Q1. Qual o melhor número de clusters pela regra do cotovelo e pelo valor médio de silhueta aplicando o kmedias? (verifique de 2 a 10 clusters)
+{
+= 3 e 2
+~ 3 e 4
+~ 2 e 3
+~ 2 e 5
+~ 3 e 9
+}
+
+Q2. Qual ao valor médio de silhueta para o melhor número de clusters na clusterização hierárquica (aglomerativa) para os esquemas de ligação (linkage) ward (padrão do scikit-learn),complete e single? (verifique de 2 a 10 clusters)
+{
+= 0.456, 0.456 e 0.461
+~ 0.456, 0.461 e 0.461
+~ 0.476, 0.476 e 0.461
+~ 0.486, 0.486 e 0.461
+~ 0.496, 0.416 e 0.451
+}
+
+Q3. Verifique a distribuição da quantidade de elementos no modelo que fornece o melhor número de silhueta. Qual é essa distribuição e responda se essa é uma clusterização útil e adequada.
+{
+= 25 e 1 elementos em cada cluster, o que não parece uma clusterização útil
+~ 20, 5 e 1 elementos em cada cluster, o que não parece uma clusterização útil
+~ 20, 1 e 1 elementos em cada cluster, o que não parece uma clusterização útil
+~ 20, 5 e 1 elementos em cada cluster, o que parece uma clusterização útil
+~ 15, 8 e 3 elementos em cada cluster, o que parece uma clusterização útil
+} 
+
+Q4. Há um grupo que se caracteriza por um % médio maior da força de trabalho empregada na agricultura. Qual esse percentual e que países fazem parte dele?
+(Modelo kmédias, com k\=3)
+{ 
+= 52% com Grécia, Turquia e Ioguslávia
+~ 48% com Grécia, Turquia, Ioguslávia dentre outros
+~ 48% com Grécia, Portugal, França dentre outros
+~ 52% com Grécia, Portugal, Austria dentre outros
+~ 57% com Portugal, Turquia, Ioguslávia dentre outros
+
+Q5. Excetuando o grupo o com % médio maior da força de trabalho empregada na agricultura e esse indicador, o que mais se destaca em diferenciar os outros dois grupos?
+{ 
+= Os percentuais da população empregada em serviços
+~ Os percentuais da população empregada em mineração
+~ Os percentuais da população empregada em manufatura (Man)
+~ Os percentuais da população empregada em finanças
+~ Os percentuais da população empregada em tecnologia da informação
+}
+
+

@@ -1,0 +1,62 @@
+$CATEGORY: $course$/BIGT6
+
+(T61) Os grupos formados (os elementos de cada cluster) por sucessivas clusterizações kmeans podem variar\n
+ou apresentam uma solução única como os coeficientes de uma regressão linear?
+{
+	=Podem variar, pois dependendo do ponto de início diferentes pontos de mínimo podem ser encontrados
+	~Podem variar, pois os valores são afetados pela normalização
+	~Podem variar, pois dependendo do desvio padrão da amostra teremos valores diferentes
+	~Os grupos são únicos para quaisquer algoritmos de classificação pois empregam a min/max das distâncias
+	~Os grupos são únicos pois são a melhor solução de agrupamento
+}
+
+(T62) Considere o conjunto de valores [1,2,3,4,5,9,10,10,11] e\numa clusterização com k\=2 e centróides iniciais 2 e 9. O próximo valor de centróides será\:{
+	=3, 10
+	~5, 9
+	~4, 10
+	~2, 5
+	~2, 10
+}
+
+(T63) Considere as seguintes afirmativas\: \n
+\n\n i. O kmeans é sensível à normalização
+\n\n ii. O kmeans não pode ser aplicado diretamente a atributos categóricos
+\n\n iii. O kmeans tem por objetivo fazer a predição do grupo de novos elementos
+\n\n Estão corretas\:{
+	=Somente i, ii
+	~Somente i, ii, iii
+	~Somente i, iii
+	~Somente ii, iii
+	~Somente i
+}
+
+(T64) Considere as seguintes afirmativas\: \n
+\n\n i. No kmeans o número de grupos é determinado pelo modelo
+\n\n ii. A 'regra do cotovelo' busca fazer um balanceamento de métricas de grupo
+\n\n iii. Após a clusterização podemos facilmente determinar a classe de grupo,\npor exemplo, fraude/não fraude para a clusterização de operações de compra com cartões
+\n\n Estão corretas\:{
+	=Somente ii
+	~Somente i, ii, iii
+	~Somente i, iii
+	~Somente ii, iii
+	~Somente i
+}
+
+(T65) Considere as seguintes afirmativas sobre Clusterização\: \n
+\n\n i. Definido os parâmetros da Clusterização Hierárquica (por ex. função distância, função de ligação etc.)
+\no resultado da Clusterização é único
+\n\n ii. A medida da acuracidade não faz sentido na Clusterização pois os grupos não estão pré-definidos,
+\nnão tendo sentido, portanto, uma verificação da quantidade de 'acertos'
+\n\n iii. Modelos de Clusterização Hierárquica e Kmédias levam aos mesmos agrupamentos se, e somente se,
+\nempregarmos o mesmo númerp de grupos K
+\n\n Estão corretas\:{
+	=Somente i, ii
+	~Somente i, ii, iii
+	~Somente i, iii
+	~Somente ii, iii
+	~Somente i
+}
+
+
+
+

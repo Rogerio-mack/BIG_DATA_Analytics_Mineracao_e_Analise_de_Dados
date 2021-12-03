@@ -1,0 +1,62 @@
+$CATEGORY: $course$/BIGT5
+
+(T51) A Entropia, no contexto de dados, pode ser entendida como\:
+{
+= Uma medida de quantidade de informação
+~ Uma medida de dispersão dos dados
+~ Uma medida de quanto um atributo dos dados é relevante para determinar um outro atributo
+~ Uma medida de correlação
+~ Uma medida de dependência entre duas variáveis
+}
+
+(T52) Considere a seguinte tabela de valores em que dados coletados (A,B e C) 
+parecem determinar o valor de uma variável objetivo T (classe). 
+\n 
+\n A | B | C | T 
+\n 1 | 0 | Y | 1 
+\n 0 | 1 | Y | 1 
+\n 1 | 1 | Y | 0  
+\n 1 | 0 | N | 1 
+\n
+Na construção de uma Árvore de Decisão, que atributos que levam imediatamente a ramos com nós terminais?{ 
+= A com valor 0, B com valor 0, e C com valor N   
+~ A com valor 0, B com valor 0 e 1, e C com valor N   
+~ A com valor 0, B com valor 0, e C com valor Y   
+~ A com valor 1, B com valor 0 e 1, e C com valor N   
+~ A com valor 1, B com valor 0, e C com valor Y   
+}
+
+(T53) Considere as seguintes afirmativas sobre o modelo de árvores de decisão.
+\n
+\ni. O ganho de informação é empregado para decidir os melhores nós da árvore 
+\nii. O modelo emprega uma função distância para classificação
+\niii. As variáveis preditoras precisam ser numéricas (ou transformadas para numéricas) mas a variável objetivo não necessariamente
+\n
+São corretas\:\n
+{
+~ Somente i, ii, iii
+= Somente i
+~ Somente ii, iii
+~ Somente i, iii
+~ Somente i, ii
+}
+
+(T54) Considere as seguintes afirmativas sobre entropia.
+\n
+\ni. A entropia de uma constante é zero 
+\nii. A entropia de um atributo com 50% dos valores 'a' e 50% dos valores 'b', é 1 (um)
+\niii. A entropia é uma medida da eficiência de modelos de aprendizado
+\niv. 
+\n
+São corretas\:\n
+{
+~ Somente i, ii, iii
+~ Somente i
+~ Somente ii, iii
+~ Somente i, iii
+= Somente i, ii
+}
+
+(T55) O modelo de Floresta Aleatória é um modelo em que os dados são particionados treinando-se, assim, uma árvore 
+diferente para cada partição dos dados. {F}
+
