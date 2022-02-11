@@ -41,6 +41,8 @@ Ao final dessas atividades você terá implementado e discutido ao menos um mode
 * [5. Clusterização com `scikit-learn`](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A5_Clustering.ipynb) | *Trilha 6*
 * [6. Discussão: Clusters, métricas e Classificação](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A6_ClusteringDiscussao.ipynb) | *Trilha 6*
 
+<br>
+
 * [Fórum](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_A1_Forum.ipynb) | *Trilha 1*
 
 <br>
