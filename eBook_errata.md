@@ -14,3 +14,15 @@ Você encontra aqui no GitHub as correções já efetuadas.
 
 > TP, **FN, FP,** TN = cm.ravel()
 
+
+#### BIG_T4_Knn_CV_GridSearch.ipynb
+
+2022.05.20 Erro no texto da conclusão do segundo exemplo de Knn, Empréstimos *Default Yes/No*. Após a normalização o resultado muda para *conceder* o empréstimo. (obrigado à *profa. Carla Pacheco* por apontar o problema)
+
+**Erro**
+
+Como você pode ver o resultado agora é outro e a classe prevista do empréstimo será *Default Yes* (zeros), com probabilidade de $2/3$ e, portanto, **não** deveríamos conceder esse empréstimo.  
+
+**Correção** 
+
+Como você pode ver o resultado agora é outro e a classe prevista do empréstimo será *Default Yes* (zeros), com probabilidade de $2/3$ e, portanto, deveríamos conceder esse empréstimo.  
