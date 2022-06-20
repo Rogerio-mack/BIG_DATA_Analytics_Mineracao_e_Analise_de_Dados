@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6672375.svg)](https://doi.org/10.5281/zenodo.6672375)
+
 <a href="url"><img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" align="right" width="200" ></a>
 
 <br>
@@ -6,10 +8,13 @@
 
 # [BIG DATA Analytics: Mineração e Análise de Dados](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6672375.svg)](https://doi.org/10.5281/zenodo.6672375)
-
+Oliveira, R. (2021). **BIG DATA Analytics: Mineração e Análise de Dados**. (pp. 1–240). eBook. https://doi.org/10.5281/zenodo.6672375
 
 > *Para acesso ao conteúdo clique nos Capítulos ou Título, ou acesse* [**aqui**.](https://github.com/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados)
+
+<br>
+
+<br>
 
 [**Apresentação**](https://colab.research.google.com/github/Rogerio-mack/BIG_DATA_Analytics_Mineracao_e_Analise_de_Dados/blob/main/BIG_T0_Apresentacao.ipynb)
 
