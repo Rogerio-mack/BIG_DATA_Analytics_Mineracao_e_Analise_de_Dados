@@ -26,3 +26,7 @@ Você encontra aqui no GitHub as correções já efetuadas.
 **Correção** 
 
 > Como você pode ver o resultado agora é outro e a classe prevista do empréstimo será *Default Yes* (zeros), com probabilidade de $2/3$ e, portanto, deveríamos conceder esse empréstimo.  
+
+#### BIG_T4_Knn_CV_GridSearch.ipynb
+
+2022.09.02 Acrescentada a **Nota Técnica:** *Normalizar com X ou X_train* esclarecendo o uso mais correto dos procedimentos de normalização e a simplificação empregada nos exemplos do livro (obrigado à *profa. Carla Pacheco* por apontar essa necessidade).
