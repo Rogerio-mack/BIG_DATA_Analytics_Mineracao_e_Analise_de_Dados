@@ -30,3 +30,16 @@ Você encontra aqui no GitHub as correções já efetuadas.
 #### BIG_T4_Knn_CV_GridSearch.ipynb
 
 2022.09.02 Acrescentada a **Nota Técnica:** *Normalizar com X ou X_train* esclarecendo o uso mais correto dos procedimentos de normalização e a simplificação empregada nos exemplos do livro (obrigado à *profa. Carla Pacheco* por apontar essa necessidade).
+
+2023.06.14 Adequando o texto que informa de modo errado a ação do código que vem em seguida (obrigado ao aluno *Giuliano*, do curso de Data Science, por apontar este problema!) 
+
+**Erro** 
+
+O percentual é pequeno e assim vamos simplesmente excluir os dados ausentes.
+
+**Correção** 
+
+O percentual é pequeno e poderíamos talvez excluir os dados ausentes, mas vamos optar por fazer o *input* dos dados ausentes pelo valor médio.
+
+
+
