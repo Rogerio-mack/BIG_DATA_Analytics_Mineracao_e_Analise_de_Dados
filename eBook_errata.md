@@ -41,5 +41,9 @@ O percentual é pequeno e assim vamos simplesmente excluir os dados ausentes.
 
 O percentual é pequeno e poderíamos talvez excluir os dados ausentes, mas vamos optar por fazer o *input* dos dados ausentes pelo valor médio.
 
+#### BIG_T4_Knn_CV_GridSearch.ipynb
 
+2023.11.22 Alterado de **hot_encode.categories_** para **list(hot_encode.categories_[0])** 
+
+No hot encode da seção Empregando Valores Categóricos que passou a dar erro. Provável mudança da forma de trabalho das bibliotecas. No formato anterior era empregado uma array e não uma lista. Obrigado ao aluno *Victor* e à professora *Carla Pacheco* por apontarem essa necessidade.
 
